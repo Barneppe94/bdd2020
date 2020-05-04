@@ -42,7 +42,7 @@ insert into studente
     values (652927, 'Informatica e comunicazione digitale sede di Taranto', 'Giuseppe', 'Barnaba', '1994-04-22', 'BRNGPP94D22X000X', null);
 
 insert into docente
-    values (538195, 'Informatica', 'Luigi', 'Bini', '1972-10-30', 'BNILGI72L30L049H', null);
+    values (538195, 'Informatica', 'Luigi', 'Bini', '1972-10-30', 'BNILGI72L30X000X', null);
 
 insert into modulo
     values ('INF-05', 'Basi di Dati', 'Descrizione del corso', 9);
