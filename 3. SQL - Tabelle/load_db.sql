@@ -1,3 +1,5 @@
+drop database if exists universita;
+
 create database universita;
 
 use universita;
